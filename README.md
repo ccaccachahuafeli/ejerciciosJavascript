@@ -20,13 +20,13 @@ git push origin main
 
 ## 1. Contraseña válida
 
-Escribir una función llamada `contrasenaValida` que reciba un string y retorne `true` si el string es igual a "2Fj(jjbFsuj" o "eoZiugBf&g9". De lo contrario debe retornar `false`.
+Escribir una función llamada `contrasenaValida` que reciba un string y retorne `true` si el string es igual a "2Fj(jjbFsuj)" o "eoZiugBf&g9". De lo contrario debe retornar `false`.
 
 ```javascript
 // escribe tu respuesta acá
 
 // código de prueba
-console.log(contrasenaValida("2Fj(jjbFsuj")) // true
+console.log(contrasenaValida("2Fj(jjbFsuj)")) // true
 console.log(contrasenaValida("eoZiugBf&g9")) // true
 console.log(contrasenaValida("hola")) // false
 console.log(contrasenaValuda("")) // false
@@ -59,7 +59,7 @@ Escribir una función llamada `bmi` que reciba dos argumentos: peso y altura, y 
 * "Sobrepeso" si está entre 25 y 29.9
 * "Obeso" si es igual o mayor a 30
 
-```javascript
+```javascriptz
 // escribe la función bmi acá
 
 // código de prueba
